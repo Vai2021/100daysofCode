@@ -8,4 +8,3 @@ pet=input("Enter your pet name\n")
 #4. Combine the name of their city and pet and show them their band name.
 band=city + pet
 print("Your band name "+ city + " " +pet)
-
