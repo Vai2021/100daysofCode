@@ -6,11 +6,14 @@ Summary of the work is as below:
 - Designed of REST API
 - Builded GUIs and Desktop applications with Python
 - Web development
+- Python Scripting and Automation
+- Front-End Web Development
+- Backend Web Development
 
 Tools and technologies used are as follows:
 - Languages: Python, HTML, CSS
-- Tools: PyCharm, Atom
-- Database: SQLite, Postgresql
-- API: Twilio
-- Frameworks and Libraries: Flask, Bootstrap, Tkinter, Pandas, Turtle, Request, SQLAlchemy, Jinja, selenium
+- Tools: PyCharm, Atom, Jupyter Notebook, Google Colab
+- Database: SQLite, Postgresql, JSON, CSV
+- API: Twilio, Kiwi Parteners API, Google sheety API
+- Frameworks and Libraries: Flask, REST API, Bootstrap, Tkinter, Pandas, Turtle, Request, SQLAlchemy, Jinja, selenium web driver, WTForms,Beautiful soap,Flask Authentication 
 
